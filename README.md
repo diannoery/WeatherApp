@@ -27,7 +27,7 @@ A simple and elegant weather application built with SwiftUI and RxSwift that sho
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/WeatherApp.git
+git clone https://github.com/diannoery/WeatherApp.git
 cd WeatherApp
 ```
 
@@ -127,6 +127,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
+Dian Noery - https://www.linkedin.com/in/dian-afrilian-noery/
 
-Project Link: [https://github.com/yourusername/WeatherApp](https://github.com/yourusername/WeatherApp)
+Project Link: [https://github.com/diannoery/WeatherApp.git](https://github.com/diannoery/WeatherApp.git)
